@@ -158,7 +158,7 @@
           <p>lowest price guaranted</p>
         </div>
         <div class="pointer">
-          <p>free delivery over 50 job</p>
+          <p>free delivery over 5 job</p>
         </div>
         <div class="pointer">
           <p>in-store after sales service</p>
