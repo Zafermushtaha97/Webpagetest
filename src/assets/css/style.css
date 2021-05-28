@@ -1,0 +1,78 @@
+.bg-color-1{
+    background-color: #FF7900 !important;
+}
+.color-1{
+    color: #FF7900;
+}
+.color-3{
+    color: #ff0000ab;
+}
+.color-5{
+    color: #272727;
+}
+.color-6{
+    color: #707070;
+}
+.color-7{
+    color: #888888;
+}
+.bg-color-7{
+    background-color: #888888;;
+}
+.bg-color-8{
+    background-color: #F9F9F9;
+}
+.bg-color-4{
+    background-color: #00CC00;
+}
+.space-15{
+    height: 15px;
+}
+.space-20{
+    height: 20px;
+}
+.space-30{
+    height: 30px;
+}
+.bg-color-2{
+    background-color: #333399;
+}
+.pointer{
+    cursor: pointer;
+}
+.VueCarousel-navigation-button[data-v-453ad8cd]{
+    color: #FF7900 !important;
+    background: #dad2d229 !important;
+    border-radius: 50% !important;
+    width: 38px !important;
+    height: 38px !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+.mainslider{
+    background-image: url(../img/Banner_3-1.png);
+    background-size: cover;
+   
+}
+.selectspec{
+    padding: 3px;
+}
+.selectspec select {
+    padding:6px 20px 8px 8px;
+    font-size: 16px;
+    border: 3px solid #F5F5F5;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url("../icon/arrow-down-sign-to-navigate.svg") 98% / 10% no-repeat #f0f0f0;
+    color: #FF7900;
+  }
+  .font-sm{
+    font-size: 14px;
+}
+
+  @media(max-width:560px){
+      .font-sm{
+          font-size: 10px;
+      }
+  }
